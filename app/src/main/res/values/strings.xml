@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NFC Tester</string>
+    <string name="main_instructions">Tap an NFC tag or press OK to continue</string>
+    <string name="nfc_ready">Waiting for NFC tag…</string>
+    <string name="nfc_not_available">NFC not available on this device</string>
+    <string name="ok">OK</string>
+    <string name="second_screen_title">Success!</string>
+    <string name="second_screen_message">NFC tag detected (or OK pressed)</string>
+</resources>
